@@ -2,9 +2,8 @@
 
 Sito statico dell'itinerario di un viaggio Torino → Langhe → Verona: HTML a
 mano, nessun build, nessun framework. Si modifica a mano e si guarda aprendo
-i file. Stessa impostazione di `viaggio-giappone-2`, riadattata a un viaggio
-più corto e senza tema nerd: qui il centro è **il cibo e il vino**, insieme
-alle cose da vedere.
+i file. Il centro del viaggio è **il cibo e il vino**, insieme alle cose da
+vedere.
 
 Questo file contiene i fatti fissi del viaggio, le decisioni già prese e le
 convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
@@ -37,24 +36,42 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
   Giorno 1 va scritto per finire in tempo per quel treno, con margine per
   arrivare in stazione.
 - Non è previsto un budget dettagliato per questo viaggio: **niente pagina
-  costi**, a differenza del sito Giappone.
+  costi**.
+- **Degustazione "Degusta i vini di Verona" con Virginia**, Via Roma 10,
+  Verona — giovedì 13 agosto, **17:00-18:00**. Esperienza Airbnb
+  (airbnb.it/experiences/1086371), 38 € a persona, 4 vini (Soave, Lugana,
+  Valpolicella/Amarone) con abbinamenti, max 4 ospiti, cancellazione gratuita
+  fino a un giorno prima. Scelta e decisa, ma la prenotazione va ancora
+  completata online.
 
 ## Decisioni già prese
 
 - ✅ **9 agosto — Langhe**: pranzo e degustazione con la sorella e il suo
   ragazzo in una cantina di Langa (nome esatto da confermare con lei quando
   lo sa).
-- ✅ **10 agosto — giornata ad Alba**: centro storico, mercato, botteghe di
-  tartufo e nocciola, nessuno spostamento. Scelto esplicitamente invece di un
-  giro dei borghi (Barolo/La Morra) o di una giornata di puro relax: è
-  l'opzione a ritmo tranquillo ma con qualcosa da vedere.
+- ✅ **10 agosto — Alba di mattina, La Morra e Barolo di pomeriggio**: centro
+  storico e botteghe di tartufo/nocciola ad Alba, poi il belvedere di La Morra
+  e il castello di Barolo in auto (15-20 minuti, non c'è treno). Cambiato da
+  una prima versione "solo Alba, nessuno spostamento": il centro da solo si
+  esaurisce in poche ore, e tornare a Torino avrebbe significato una terza
+  mezza giornata nella stessa città (dopo l'8 e l'11) per il costo di un
+  treno di ~2h30 andata/ritorno. Restare in Langa con un'aggiunta breve in
+  auto è il compromesso scelto.
 - ✅ **12 agosto — tutto Verona**: Arena, centro storico, Casa di Giulietta,
   Ponte Pietra, Castelvecchio, giardino Giusti.
-- ✅ **13 agosto — gita in Valpolicella**: cantine Amarone/Recioto, borghi
-  (Fumane, Sant'Ambrogio, San Pietro in Cariano). È uno scambio rispetto a un
-  secondo giorno di sola Verona: la giornata del 12 copre già la città.
-- ✅ **Cena del Giorno 1**: ad Alba/Langa, dopo il trasferimento serale — non
-  a Torino prima di partire.
+- ✅ **13 agosto — Verona con calma + degustazione delle 17:00**: la gita in
+  giornata in Valpolicella è stata **tolta e sostituita** dalla degustazione
+  con Virginia (vedi Fatti fissi), trovata già pronta e prenotabile: copre
+  Amarone e Valpolicella senza bisogno di auto, cantina da scegliere o una
+  giornata intera fuori città. Il resto della giornata è deliberatamente
+  leggero — riposo, eventualmente Castelvecchio o il Giardino Giusti — non un
+  secondo giro turistico pieno.
+- ✅ **Cena del Giorno 1: salsiccia di Bra e patate ripiene a Torino**, non ad
+  Alba. Salsiccia di Bra da **Crostone.it** (Piazza Castello 72) e patate
+  ripiene da **Poormanger** (Piazza Palazzo di Città), entrambe a due passi
+  l'una dall'altra: è una richiesta esplicita, non un'opzione fra altre. Il
+  bicerin che questo ha spostato fuori dal Giorno 1 è finito al mattino del
+  Giorno 4, seconda volta a Torino.
 
 ## Cosa piace
 
@@ -62,23 +79,22 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
 Piemonte: tajarin al tartufo, agnolotti del plin, vitello tonnato, brasato al
 Barolo, bicerin, vini di Langa (Barolo, Barbaresco, Dolcetto, Nebbiolo).
 Veneto: risotto all'Amarone, bigoli, tortellini di Valeggio, Amarone, Recioto,
-Soave, spritz. Nessun veto esplicito: a differenza del viaggio in Giappone,
-qui non ci sono piatti banditi — l'obiettivo è trovare i posti giusti, non
-evitarne.
+Soave, spritz. **Nessun veto esplicito**: non ci sono piatti banditi in questo
+viaggio — l'obiettivo è trovare i posti giusti, non evitarne.
 
 **Da vedere:** Torino (Piazza San Carlo, Mole Antonelliana, Via Po), i colli
-delle Langhe, il centro di Alba, l'Arena e il centro storico di Verona,
-le cantine della Valpolicella. Nessun tema "nerd" in questo viaggio.
+delle Langhe (La Morra, Barolo), il centro di Alba, l'Arena e il centro
+storico di Verona. Nessun tema "nerd" in questo viaggio.
 
 ## Come si scrive sul sito
 
-Stesso registro del sito Giappone: **seconda persona plurale ("fate",
+Registro fisso su tutte le pagine: **seconda persona plurale ("fate",
 "arrivateci"), motivo concreto per ogni scelta, un fatto verificabile per
 tappa, nessun entusiasmo generico**. Ogni giornata spiega la *logica* di sé
 stessa in "Note e dritte".
 
-Struttura di `giorno-NN.html` (non inventarne una nuova — identica a
-`viaggio-giappone-2`):
+Struttura di `giorno-NN.html` (non inventarne una nuova, vale per tutti i
+sette giorni):
 
 - `.dayhero` + `.chips` — i chip devono coincidere con il teaser della card in
   `index.html`.
@@ -98,11 +114,11 @@ immagine), `prenotazioni.html` (se nasce o muore una prenotazione),
 
 ## Immagini
 
-A differenza di `viaggio-giappone-2`, questo viaggio **non ha foto proprie**:
-tutte le immagini in `images/` sono state scaricate da fonti libere da riuso
-(Wikimedia Commons) e sono accreditate in `images/CREDITS.md`. Se in futuro
-arrivano foto vere del viaggio, sostituiscono i placeholder mantenendo lo
-stesso nome file, e la riga corrispondente va tolta da `CREDITS.md`.
+Questo viaggio **non ha foto proprie**: tutte le immagini in `images/` sono
+state scaricate da fonti libere da riuso (Wikimedia Commons) e sono
+accreditate in `images/CREDITS.md`. Se in futuro arrivano foto vere del
+viaggio, sostituiscono i placeholder mantenendo lo stesso nome file, e la riga
+corrispondente va tolta da `CREDITS.md`.
 
 ## Debito noto
 
@@ -111,4 +127,7 @@ stesso nome file, e la riga corrispondente va tolta da `CREDITS.md`.
 - Orario esatto del treno regionale Alba→Torino della mattina del Giorno 4:
   la linea ha corse pressoché orarie, ma va verificato vicino alla data per
   avere margine sul treno Italo delle 13:00 da Torino.
-- Cantina da prenotare per la gita in Valpolicella del Giorno 6.
+- Prenotazione su Airbnb della degustazione del Giorno 6 (17:00-18:00, 13
+  agosto): decisa, ma va ancora completata online — solo 4 posti per slot.
+- Mezzo per il pomeriggio del Giorno 3 verso La Morra e Barolo (auto della
+  sorella o taxi): da confermare, non c'è collegamento in treno.
