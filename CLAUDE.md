@@ -30,11 +30,15 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
   I codici di prenotazione e i numeri dei biglietti **non vanno scritti sul
   sito** (è pubblico): restano nei PDF dentro `biglietti/`, che è ignorata da
   git.
-- **Torino ↔ Alba: treno regionale**, nessuna prenotazione necessaria,
-  servizio pressoché orario (~1h15-1h25). **Vincolo duro: l'8 agosto l'ultimo
-  treno utile da Torino ad Alba parte alle 19:41.** Il pomeriggio a Torino del
-  Giorno 1 va scritto per finire in tempo per quel treno, con margine per
-  arrivare in stazione.
+- **Torino ↔ Alba: treno regionale SFM4**, nessuna prenotazione necessaria,
+  orario al minuto :07 di ogni ora, circa 1h07. **Il capolinea lato Torino è
+  Torino Lingotto, non Porta Susa** (confermato su Trenitalia per la tratta
+  Alba→Torino) — serve la metro Linea 1, 9 minuti, per arrivare in centro. Non
+  ancora verificato se vale anche al contrario (vedi Debito noto). **Vincolo
+  duro: l'8 agosto l'ultimo treno utile da Torino ad Alba parte alle 19:41.**
+  Il pomeriggio a Torino del Giorno 1 va scritto per finire in tempo per quel
+  treno, con margine per arrivare in stazione — e per l'eventuale metro fino a
+  Lingotto, se serve.
 - Non è previsto un budget dettagliato per questo viaggio: **niente pagina
   costi**.
 - Il **Giorno 6** ha due impegni serali fissi (degustazione con Virginia +
@@ -150,9 +154,13 @@ corrispondente va tolta da `CREDITS.md`.
 
 - Nome esatto della cantina del pranzo/degustazione del 9 agosto: da
   confermare con la sorella.
-- Orario esatto del treno regionale Alba→Torino della mattina del Giorno 4:
-  la linea ha corse pressoché orarie, ma va verificato vicino alla data per
-  avere margine sul treno Italo delle 13:00 da Torino.
+- ✅ Risolto: treno regionale Alba→Torino della mattina del Giorno 4 —
+  09:07 da Alba, arrivo Torino Lingotto 10:14, confermato su Trenitalia.
+- Verificare se il treno delle 19:41 Torino→Alba dell'8 agosto (Giorno 1)
+  parte da Torino Lingotto o da Porta Susa: sulla tratta opposta (Alba→Torino)
+  il capolinea è Lingotto, non Porta Susa come si era assunto. Se vale anche
+  al contrario, il Giorno 1 va corretto con il tempo per la metro Linea 1
+  fino a Lingotto (9 minuti) prima delle 19:41.
 - Prenotazione su Airbnb della degustazione del Giorno 6: decisa, ma va
   ancora completata online — solo 4 posti per slot.
 - Biglietti del Carmina Burana del Giorno 6: scelto lo spettacolo, va ancora
