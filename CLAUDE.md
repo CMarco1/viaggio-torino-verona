@@ -37,21 +37,28 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
   arrivare in stazione.
 - Non è previsto un budget dettagliato per questo viaggio: **niente pagina
   costi**.
-- **Degustazione "Degusta i vini di Verona" con Virginia**, Via Roma 10,
-  Verona — giovedì 13 agosto, **17:00-18:00**. Esperienza Airbnb
-  (airbnb.it/experiences/1086371), 38 € a persona, 4 vini (Soave, Lugana,
-  Valpolicella/Amarone) con abbinamenti, max 4 ospiti, cancellazione gratuita
-  fino a un giorno prima. Scelta e decisa, ma la prenotazione va ancora
-  completata online.
+- Il **Giorno 6** ha due impegni serali fissi (degustazione con Virginia +
+  **Carmina Burana** all'Arena): orari, prezzi e link stanno in
+  `giorno-06.html` e `prenotazioni.html`, non qui — non duplicare qui gli
+  orari, cambiano più spesso di quanto sembri.
 
 ## Decisioni già prese
 
+- ✅ **Giorno 4 (11 agosto) — ascensore della Mole al posto del Palazzo
+  Reale**: il tempo reale a Torino fra Giorno 1 e Giorno 4 è poco (circa
+  un'ora di visita vera, tolti cibo e spostamenti), non abbastanza per il
+  Palazzo Reale con gli interni (1h+). L'ascensore della Mole si fa in
+  30-40 minuti e dà comunque il momento panoramico: il Palazzo Reale è
+  trattato come il Museo Egizio, un buon motivo per tornare a Torino con più
+  tempo. Se qualcosa slitta, si taglia il bicerin da Baratti & Milano, non la
+  Mole.
 - ✅ **9 agosto — Langhe**: pranzo e degustazione con la sorella e il suo
   ragazzo in una cantina di Langa (nome esatto da confermare con lei quando
   lo sa).
 - ✅ **10 agosto — Alba di mattina, La Morra e Barolo di pomeriggio**: centro
-  storico e botteghe di tartufo/nocciola ad Alba, poi il belvedere di La Morra
-  e il castello di Barolo in auto (15-20 minuti, non c'è treno). Cambiato da
+  storico e botteghe di cioccolato/nocciola ad Alba, poi il belvedere di La Morra
+  e il castello di Barolo in auto (15-20 minuti, non c'è treno) — **auto della
+  sorella, già confermata**, nessun taxi da organizzare. Cambiato da
   una prima versione "solo Alba, nessuno spostamento": il centro da solo si
   esaurisce in poche ore, e tornare a Torino avrebbe significato una terza
   mezza giornata nella stessa città (dopo l'8 e l'11) per il costo di un
@@ -59,28 +66,47 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
   auto è il compromesso scelto.
 - ✅ **12 agosto — tutto Verona**: Arena, centro storico, Casa di Giulietta,
   Ponte Pietra, Castelvecchio, giardino Giusti.
-- ✅ **13 agosto — Verona con calma + degustazione delle 17:00**: la gita in
-  giornata in Valpolicella è stata **tolta e sostituita** dalla degustazione
-  con Virginia (vedi Fatti fissi), trovata già pronta e prenotabile: copre
-  Amarone e Valpolicella senza bisogno di auto, cantina da scegliere o una
-  giornata intera fuori città. Il resto della giornata è deliberatamente
-  leggero — riposo, eventualmente Castelvecchio o il Giardino Giusti — non un
-  secondo giro turistico pieno.
+- ✅ **13 agosto — Verona con calma, poi degustazione e Carmina Burana**: la
+  gita in giornata in Valpolicella è stata **tolta e sostituita** dalla
+  degustazione con Virginia, trovata già pronta e prenotabile: copre Amarone e
+  Valpolicella senza bisogno di auto, cantina da scegliere o una giornata
+  intera fuori città. La sera si chiude con il **Carmina Burana** all'Arena,
+  trovato disponibile per la stessa data: non un'aggiunta "se capita", ma il
+  secondo impegno fisso della giornata insieme alla degustazione (anticipata
+  apposta per lasciare margine). Il resto della giornata (mattina e primo
+  pomeriggio) resta deliberatamente leggero — riposo, eventualmente
+  Castelvecchio o il Giardino Giusti. Orari correnti in `giorno-06.html`.
 - ✅ **Cena del Giorno 1: salsiccia di Bra e patate ripiene a Torino**, non ad
   Alba. Salsiccia di Bra da **Crostone.it** (Piazza Castello 72) e patate
   ripiene da **Poormanger** (Piazza Palazzo di Città), entrambe a due passi
   l'una dall'altra: è una richiesta esplicita, non un'opzione fra altre. Il
   bicerin che questo ha spostato fuori dal Giorno 1 è finito al mattino del
   Giorno 4, seconda volta a Torino.
+- ✅ **Giorno 2, ordine invertito: pranzo prima, degustazione nel tardo
+  pomeriggio**, non subito a ridosso l'uno dell'altra. La sorella ha
+  confermato che la degustazione vera e propria sarà più tardi, non a ridosso
+  del pranzo: il tempo fra i due è margine reale (i pranzi di Langa durano),
+  non un buco da riempire.
+
+## ⛔ Veti
+
+- **Tartufo — abolito, in qualunque forma.** Niente tajarin al tartufo, niente
+  tartufo grattugiato, niente prodotti conservati (creme, olio tartufato),
+  niente tappe pensate intorno al tartufo (botteghe a tema, ecc.). Non è una
+  questione di stagione: è fuori a prescindere. Se un locale è consigliato per
+  *altro*, va bene lo stesso; se è consigliato *per* il tartufo, si sostituisce.
 
 ## Cosa piace
 
-**Da mangiare e bere — è il centro del viaggio, non un contorno:**
-Piemonte: tajarin al tartufo, agnolotti del plin, vitello tonnato, brasato al
-Barolo, bicerin, vini di Langa (Barolo, Barbaresco, Dolcetto, Nebbiolo).
+**Da mangiare e bere — è il centro del viaggio, non un contorno**, insieme ai
+posti dove farlo: ogni giorno, dove possibile, ha un ristorante o locale
+concreto consigliato, non solo il nome del piatto.
+Piemonte: tajarin (al sugo d'arrosto o al ragù), agnolotti del plin, vitello
+tonnato, brasato al Barolo, bicerin, cioccolato e nocciola (gianduia), vini di
+Langa (Barolo, Barbaresco, Dolcetto, Nebbiolo).
 Veneto: risotto all'Amarone, bigoli, tortellini di Valeggio, Amarone, Recioto,
-Soave, spritz. **Nessun veto esplicito**: non ci sono piatti banditi in questo
-viaggio — l'obiettivo è trovare i posti giusti, non evitarne.
+Soave, spritz. A parte il tartufo (vedi Veti), nessun altro piatto è bandito —
+l'obiettivo resta trovare i posti giusti.
 
 **Da vedere:** Torino (Piazza San Carlo, Mole Antonelliana, Via Po), i colli
 delle Langhe (La Morra, Barolo), il centro di Alba, l'Arena e il centro
@@ -127,7 +153,8 @@ corrispondente va tolta da `CREDITS.md`.
 - Orario esatto del treno regionale Alba→Torino della mattina del Giorno 4:
   la linea ha corse pressoché orarie, ma va verificato vicino alla data per
   avere margine sul treno Italo delle 13:00 da Torino.
-- Prenotazione su Airbnb della degustazione del Giorno 6 (17:00-18:00, 13
-  agosto): decisa, ma va ancora completata online — solo 4 posti per slot.
-- Mezzo per il pomeriggio del Giorno 3 verso La Morra e Barolo (auto della
-  sorella o taxi): da confermare, non c'è collegamento in treno.
+- Prenotazione su Airbnb della degustazione del Giorno 6: decisa, ma va
+  ancora completata online — solo 4 posti per slot.
+- Biglietti del Carmina Burana del Giorno 6: scelto lo spettacolo, va ancora
+  scelto il settore e completato l'acquisto sul sito ufficiale dell'Arena
+  Opera Festival.

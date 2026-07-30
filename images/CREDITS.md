@@ -16,7 +16,7 @@ mantenendo lo stesso nome, e la riga va tolta da qui.
 - **Licenza:** CC BY-SA 3.0
 - **Originale:** https://commons.wikimedia.org/wiki/File:Mole_Antonelliana_Torino.JPG
 
-## `langhe.jpg` — giorno-02 (Langhe)
+## `langhe.jpg` — giorno-02 e giorno-03 (Langhe)
 - **Autore:** Alessandra Cimatti
 - **Licenza:** CC BY 2.0
 - **Originale:** https://commons.wikimedia.org/wiki/File:Vineyards_in_Langhe.jpg
@@ -25,12 +25,6 @@ mantenendo lo stesso nome, e la riga va tolta da qui.
 - **Autore:** AlessioMela
 - **Licenza:** CC BY-SA 4.0
 - **Originale:** https://commons.wikimedia.org/wiki/File:Piazza_Savona_ad_Alba.JPG
-
-## `tartufo.jpg` — mangiare.html (botteghe di tartufo ad Alba)
-- **Autore:** Irene Grassi
-- **Licenza:** CC BY-SA 2.0
-- **Originale:** https://commons.wikimedia.org/wiki/File:Black_Truffles_-_Fiera_del_Tartufo_-_Alba_-_Province_of_Cuneo,_Italy_-_21_Nov._2010.jpg
-- Nota: foto scattata alla Fiera del Tartufo (autunno), usata solo come immagine illustrativa — ad agosto le botteghe vendono tartufo conservato, non fresco.
 
 ## `verona_arrivo.jpg` — giorno-04 (arrivo a Verona, Piazza Bra)
 - **Autore:** Didier Descouens
