@@ -51,10 +51,11 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
   Torino Porta Susa delle 13:07 è confermata** (SFM4 n. 26445, arrivo 14:22).
 - Non è previsto un budget dettagliato per questo viaggio: **niente pagina
   costi**.
-- Il **Giorno 6** ha due impegni serali fissi (degustazione con Virginia +
-  **Carmina Burana** all'Arena): orari, prezzi e link stanno in
-  `giorno-06.html` e `prenotazioni.html`, non qui — non duplicare qui gli
-  orari, cambiano più spesso di quanto sembri.
+- Il **Giorno 6** ha due impegni serali fissi, **entrambi confermati**
+  (degustazione con Bruno + **Carmina Burana** all'Arena): orari, prezzi e
+  codici di prenotazione stanno in `giorno-06.html` e `prenotazioni.html`,
+  non qui — non duplicare qui gli orari, cambiano più spesso di quanto
+  sembri.
 
 ## Decisioni già prese
 
@@ -90,14 +91,18 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
   Ponte Pietra, Castelvecchio, giardino Giusti.
 - ✅ **13 agosto — Verona con calma, poi degustazione e Carmina Burana**: la
   gita in giornata in Valpolicella è stata **tolta e sostituita** dalla
-  degustazione con Virginia, trovata già pronta e prenotabile: copre Amarone e
-  Valpolicella senza bisogno di auto, cantina da scegliere o una giornata
-  intera fuori città. La sera si chiude con il **Carmina Burana** all'Arena,
-  trovato disponibile per la stessa data: non un'aggiunta "se capita", ma il
-  secondo impegno fisso della giornata insieme alla degustazione (anticipata
-  apposta per lasciare margine). Il resto della giornata (mattina e primo
-  pomeriggio) resta deliberatamente leggero — riposo, eventualmente
-  Castelvecchio o il Giardino Giusti. Orari correnti in `giorno-06.html`.
+  degustazione (Airbnb Experience "Degusta i vini di Verona", annuncio di
+  Virginia ma condotta di persona da **Bruno**, il sommelier proprietario):
+  copre Amarone e Valpolicella senza bisogno di auto, cantina da scegliere o
+  una giornata intera fuori città. La sera si chiude con il **Carmina
+  Burana** all'Arena. Entrambe **prenotate e pagate**: degustazione confermata
+  (n. TAYRW2Y8, 76 € per 2 persone), Carmina Burana Settore Rossini fila 11
+  posti 157/159 (137,80 € per 2 biglietti via Vivaticket) — non un'aggiunta
+  "se capita", ma il secondo impegno fisso della giornata insieme alla
+  degustazione (anticipata apposta per lasciare margine). Il resto della
+  giornata (mattina e primo pomeriggio) resta deliberatamente leggero —
+  riposo, eventualmente Castelvecchio o il Giardino Giusti. Orari correnti in
+  `giorno-06.html`.
 - ✅ **Cena del Giorno 1: salsiccia di Bra e patate ripiene a Torino**, non ad
   Alba. Salsiccia di Bra da **Crostone.it** (Piazza Castello 72) e patate
   ripiene da **Poormanger** (Piazza Palazzo di Città), entrambe a due passi
@@ -172,8 +177,3 @@ corrispondente va tolta da `CREDITS.md`.
 
 - Se il giro del 9 agosto tocca davvero La Morra e/o Barolo dopo la
   degustazione: probabile ma non fissato, dipende dal tempo sul posto.
-- Prenotazione su Airbnb della degustazione del Giorno 6: decisa, ma va
-  ancora completata online — solo 4 posti per slot.
-- Biglietti del Carmina Burana del Giorno 6: scelto lo spettacolo, va ancora
-  scelto il settore e completato l'acquisto sul sito ufficiale dell'Arena
-  Opera Festival.
