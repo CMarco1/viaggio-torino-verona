@@ -13,12 +13,16 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
 - **8-14 agosto 2026**, 7 giorni, **6 notti**, **2 persone**.
 - **2 notti a Langa (8→10 ago)**, ospiti della sorella ad **Alba**. Nessun
   hotel: niente indirizzo pubblico, niente orari di check-in/out da scrivere.
-- **1 notte a Torino (10→11 ago)**, hotel o B&B ancora da scegliere e
-  prenotare, budget indicativo **80 €** per la coppia. Sostituisce l'andata e
-  ritorno in giornata da Alba del vecchio piano: si arriva a Torino nel primo
-  pomeriggio del 10, si vedono Palazzo Reale e la Mole con calma, si dorme in
-  città e si riparte per Verona l'11 senza dover più prendere nessun
-  regionale la mattina.
+- **1 notte a Torino (10→11 ago)**, **Blunotte Torino - Piazza Castello**,
+  Via Palazzo di Città 14. Prenotazione confermata su Booking.com (n.
+  6105777194), camera matrimoniale con bagno privato, check-in dalle 12:30
+  del 10, check-out entro le 10:30 dell'11, 67,50 € (già pagati) + 7,60 € di
+  tassa di soggiorno da pagare in struttura. Cancellazione gratuita fino al 2
+  agosto 2026, poi nessun rimborso. Colazione non inclusa. Sostituisce
+  l'andata e ritorno in giornata da Alba del vecchio piano: si arriva a
+  Torino nel primo pomeriggio del 10, si vedono Palazzo Reale e la Mole con
+  calma, si dorme in città e si riparte per Verona l'11 senza dover più
+  prendere nessun regionale la mattina.
 - **3 notti a Verona (11→14 ago)**, **Hotel Leopardi**, Via Leopardi 16.
   Prenotazione confermata (n. 2515228984), doppia economy, 238,07 € + 28,85 €
   di tassa di soggiorno da pagare in struttura.
@@ -168,9 +172,6 @@ corrispondente va tolta da `CREDITS.md`.
 
 - Se il giro del 9 agosto tocca davvero La Morra e/o Barolo dopo la
   degustazione: probabile ma non fissato, dipende dal tempo sul posto.
-- Hotel o B&B per la notte a Torino del **Giorno 3** (10→11 agosto): deciso
-  di prenderne uno per evitare l'andata e ritorno da Alba, budget indicativo
-  80 € per la coppia, ma il posto specifico va ancora scelto e prenotato.
 - Prenotazione su Airbnb della degustazione del Giorno 6: decisa, ma va
   ancora completata online — solo 4 posti per slot.
 - Biglietti del Carmina Burana del Giorno 6: scelto lo spettacolo, va ancora
