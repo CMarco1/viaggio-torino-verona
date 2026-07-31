@@ -43,7 +43,8 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
   a Porta Susa. **Vincolo duro: l'8 agosto l'ultimo treno utile da Torino ad
   Alba parte alle 19:33 da Porta Susa** (19:41 a Lingotto). Il pomeriggio a
   Torino del Giorno 1 va scritto per finire in tempo per quel treno, con
-  margine per arrivare in stazione.
+  margine per arrivare in stazione. **Il 10 agosto (Giorno 3) l'andata Alba →
+  Torino Porta Susa delle 13:07 è confermata** (SFM4 n. 26445, arrivo 14:22).
 - Non è previsto un budget dettagliato per questo viaggio: **niente pagina
   costi**.
 - Il **Giorno 6** ha due impegni serali fissi (degustazione con Virginia +
@@ -69,15 +70,16 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
   invece di tornare ad Alba con il regionale della sera. Il **Palazzo Reale**
   e l'**ascensore della Mole** entrano nel pomeriggio/sera: la Mole va fatta
   per forza oggi, non l'11, perché il Museo del Cinema chiude il martedì. Il
-  Museo Egizio si sposta al Giorno 4 mattina, dove finalmente ha una mattina
-  intera invece di un ripiego di fine pomeriggio.
+  Museo Egizio, valutato come tappa facoltativa per il Giorno 4, è stato
+  **scartato**: dopo Palazzo Reale e la Mole non c'era voglia di un altro
+  museo di corsa.
 - ✅ **Giorno 4 (11 agosto) — mattina libera a Torino, poi il treno per
   Verona**: dato che si dorme già in hotel a Torino dalla notte prima, non
-  serve più nessun regionale la mattina. La mattina è libera per il **Museo
-  Egizio** (tappa facoltativa, il martedì apre già alle 9:00), poi si parte
-  con l'Italo delle 13:00 da Torino Porta Susa. Un treno in meno rispetto al
-  vecchio piano: solo i due Italo via Milano, non più il regionale
-  Alba→Torino a ridosso della coincidenza.
+  serve più nessun regionale la mattina. Niente Museo Egizio: al suo posto
+  una **colazione vera** da **Caffè Fiorio** su Via Po (caffè storico dal
+  1780), poi tempo libero fino all'Italo delle 13:00 da Torino Porta Susa. Un
+  treno in meno rispetto al vecchio piano: solo i due Italo via Milano, non
+  più il regionale Alba→Torino a ridosso della coincidenza.
 - ✅ **12 agosto — tutto Verona**: Arena, centro storico, Casa di Giulietta,
   Ponte Pietra, Castelvecchio, giardino Giusti.
 - ✅ **13 agosto — Verona con calma, poi degustazione e Carmina Burana**: la
@@ -166,11 +168,6 @@ corrispondente va tolta da `CREDITS.md`.
   confermare con la sorella.
 - Se il giro del 9 agosto tocca davvero La Morra e/o Barolo dopo la
   degustazione: probabile ma non fissato, dipende dal tempo sul posto.
-- Orario del regionale Alba→Torino del **Giorno 3** (sola andata, primo
-  pomeriggio del 10 agosto): non è la stessa corsa già confermata su
-  Trenitalia (l'unica corsa confermata resta quella dell'8 agosto sera). Va
-  riverificato più vicino alla data, anche perché il 10 agosto è un lunedì,
-  non un sabato come l'8 agosto.
 - Hotel o B&B per la notte a Torino del **Giorno 3** (10→11 agosto): deciso
   di prenderne uno per evitare l'andata e ritorno da Alba, budget indicativo
   80 € per la coppia, ma il posto specifico va ancora scelto e prenotato.
