@@ -56,8 +56,10 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
 
 - ✅ **9 agosto — Langhe, con orari confermati dalla sorella**: partenza verso
   le 11:00, tappa a **Neive**, **pranzo alle 13:00** in cantina (già
-  prenotato, nome ancora da confermare), **degustazione guidata alle 16:30**.
-  Dopo la degustazione, **La Morra ed eventualmente il castello di Barolo**
+  prenotato). **Il nome della cantina lo gestisce la sorella**: non interessa
+  saperlo, non va tracciato come debito noto. **Degustazione guidata alle
+  16:30**. Dopo la degustazione, **La Morra ed eventualmente il castello di
+  Barolo**
   entrano come tappa **facoltativa** in auto (quella della sorella): lei ha
   segnalato che il posto della degustazione non è lontano da La Morra, quindi
   probabilmente ci si passa, ma non è un piano fisso — dipende dal tempo sul
@@ -164,8 +166,6 @@ corrispondente va tolta da `CREDITS.md`.
 
 ## Debito noto
 
-- Nome esatto della cantina del pranzo/degustazione del 9 agosto (Neive): da
-  confermare con la sorella.
 - Se il giro del 9 agosto tocca davvero La Morra e/o Barolo dopo la
   degustazione: probabile ma non fissato, dipende dal tempo sul posto.
 - Hotel o B&B per la notte a Torino del **Giorno 3** (10→11 agosto): deciso
