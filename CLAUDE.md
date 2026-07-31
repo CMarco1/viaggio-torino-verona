@@ -11,8 +11,14 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
 ## I fatti fissi
 
 - **8-14 agosto 2026**, 7 giorni, **6 notti**, **2 persone**.
-- **3 notti a Langa (8→11 ago)**, ospiti della sorella ad **Alba**. Nessun
+- **2 notti a Langa (8→10 ago)**, ospiti della sorella ad **Alba**. Nessun
   hotel: niente indirizzo pubblico, niente orari di check-in/out da scrivere.
+- **1 notte a Torino (10→11 ago)**, hotel o B&B ancora da scegliere e
+  prenotare, budget indicativo **80 €** per la coppia. Sostituisce l'andata e
+  ritorno in giornata da Alba del vecchio piano: si arriva a Torino nel primo
+  pomeriggio del 10, si vedono Palazzo Reale e la Mole con calma, si dorme in
+  città e si riparte per Verona l'11 senza dover più prendere nessun
+  regionale la mattina.
 - **3 notti a Verona (11→14 ago)**, **Hotel Leopardi**, Via Leopardi 16.
   Prenotazione confermata (n. 2515228984), doppia economy, 238,07 € + 28,85 €
   di tassa di soggiorno da pagare in struttura.
@@ -55,23 +61,23 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
   segnalato che il posto della degustazione non è lontano da La Morra, quindi
   probabilmente ci si passa, ma non è un piano fisso — dipende dal tempo sul
   posto.
-- ✅ **Giorno 3 (10 agosto) — giornata intera a Torino, andata e ritorno in
-  treno da Alba**: sostituisce il vecchio piano "Alba di mattina, La Morra e
-  Barolo di pomeriggio" (quel giro in auto è ora facoltativo nel Giorno 2, non
-  più un piano fisso del 10 agosto). Con una giornata intera dedicata solo a
-  Torino, il **Palazzo Reale** finalmente ci sta (prima, fra Giorno 1 e il
-  vecchio Giorno 4, restava sì e no un'ora di visita vera): entra nel piano
-  insieme all'**ascensore della Mole**, spostato qui dal vecchio Giorno 4. Il
-  Museo Egizio diventa una tappa facoltativa a bassa priorità, non più "da
-  rimandare a un altro viaggio". Nessun bagaglio da portare: è una gita in
-  giornata, si dorme ancora ad Alba quella sera.
-- ✅ **Giorno 4 (11 agosto) — mattina ad Alba, Torino solo di passaggio**:
-  dato che Torino è già stata vista con calma il giorno prima, oggi non c'è
-  più bisogno di tornarci per visitare qualcosa. La mattina resta ad Alba
-  (Duomo, corso, torri, un'ultima tappa da Bodrato), poi si prende il
-  regionale verso Torino Porta Susa solo per la coincidenza con l'Italo delle
-  13:00 — nessuna visita, nessun deposito bagagli (la sosta è troppo breve
-  per averne senso).
+- ✅ **Giorno 3 (10 agosto) — mattina ad Alba, poi Torino con una notte in
+  hotel**: sostituisce il piano precedente di andata e ritorno in giornata da
+  Alba. La mattina è quella che prima apriva il vecchio Giorno 4 (Duomo,
+  corso, torri, un'ultima tappa da Bodrato, pranzo di saluto in famiglia);
+  nel primo pomeriggio si parte per Torino con i bagagli e si dorme lì,
+  invece di tornare ad Alba con il regionale della sera. Il **Palazzo Reale**
+  e l'**ascensore della Mole** entrano nel pomeriggio/sera: la Mole va fatta
+  per forza oggi, non l'11, perché il Museo del Cinema chiude il martedì. Il
+  Museo Egizio si sposta al Giorno 4 mattina, dove finalmente ha una mattina
+  intera invece di un ripiego di fine pomeriggio.
+- ✅ **Giorno 4 (11 agosto) — mattina libera a Torino, poi il treno per
+  Verona**: dato che si dorme già in hotel a Torino dalla notte prima, non
+  serve più nessun regionale la mattina. La mattina è libera per il **Museo
+  Egizio** (tappa facoltativa, il martedì apre già alle 9:00), poi si parte
+  con l'Italo delle 13:00 da Torino Porta Susa. Un treno in meno rispetto al
+  vecchio piano: solo i due Italo via Milano, non più il regionale
+  Alba→Torino a ridosso della coincidenza.
 - ✅ **12 agosto — tutto Verona**: Arena, centro storico, Casa di Giulietta,
   Ponte Pietra, Castelvecchio, giardino Giusti.
 - ✅ **13 agosto — Verona con calma, poi degustazione e Carmina Burana**: la
@@ -160,12 +166,14 @@ corrispondente va tolta da `CREDITS.md`.
   confermare con la sorella.
 - Se il giro del 9 agosto tocca davvero La Morra e/o Barolo dopo la
   degustazione: probabile ma non fissato, dipende dal tempo sul posto.
-- Orari dei regionali Alba↔Torino del **Giorno 3** (andata e ritorno, 10
-  agosto) e della mattina del **Giorno 4** (11 agosto): nessuno di questi è
-  la stessa corsa già confermata su Trenitalia (quelle confermate restano
-  solo le due dell'8 agosto sera e della vecchia mattina dell'11). Vanno
-  riverificati più vicino alla data, in particolare il ritorno delle 19:33 il
-  10 agosto: quel giorno è un lunedì, non un sabato come l'8 agosto.
+- Orario del regionale Alba→Torino del **Giorno 3** (sola andata, primo
+  pomeriggio del 10 agosto): non è la stessa corsa già confermata su
+  Trenitalia (l'unica corsa confermata resta quella dell'8 agosto sera). Va
+  riverificato più vicino alla data, anche perché il 10 agosto è un lunedì,
+  non un sabato come l'8 agosto.
+- Hotel o B&B per la notte a Torino del **Giorno 3** (10→11 agosto): deciso
+  di prenderne uno per evitare l'andata e ritorno da Alba, budget indicativo
+  80 € per la coppia, ma il posto specifico va ancora scelto e prenotato.
 - Prenotazione su Airbnb della degustazione del Giorno 6: decisa, ma va
   ancora completata online — solo 4 posti per slot.
 - Biglietti del Carmina Burana del Giorno 6: scelto lo spettacolo, va ancora
