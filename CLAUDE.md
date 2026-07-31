@@ -47,26 +47,31 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
 
 ## Decisioni già prese
 
-- ✅ **Giorno 4 (11 agosto) — ascensore della Mole al posto del Palazzo
-  Reale**: il tempo reale a Torino fra Giorno 1 e Giorno 4 è poco (circa
-  un'ora di visita vera, tolti cibo e spostamenti), non abbastanza per il
-  Palazzo Reale con gli interni (1h+). L'ascensore della Mole si fa in
-  30-40 minuti e dà comunque il momento panoramico: il Palazzo Reale è
-  trattato come il Museo Egizio, un buon motivo per tornare a Torino con più
-  tempo. Se qualcosa slitta, si taglia il bicerin da Baratti & Milano, non la
-  Mole.
-- ✅ **9 agosto — Langhe**: pranzo e degustazione con la sorella e il suo
-  ragazzo in una cantina di Langa (nome esatto da confermare con lei quando
-  lo sa).
-- ✅ **10 agosto — Alba di mattina, La Morra e Barolo di pomeriggio**: centro
-  storico e botteghe di cioccolato/nocciola ad Alba, poi il belvedere di La Morra
-  e il castello di Barolo in auto (15-20 minuti, non c'è treno) — **auto della
-  sorella, già confermata**, nessun taxi da organizzare. Cambiato da
-  una prima versione "solo Alba, nessuno spostamento": il centro da solo si
-  esaurisce in poche ore, e tornare a Torino avrebbe significato una terza
-  mezza giornata nella stessa città (dopo l'8 e l'11) per il costo di un
-  treno di ~2h30 andata/ritorno. Restare in Langa con un'aggiunta breve in
-  auto è il compromesso scelto.
+- ✅ **9 agosto — Langhe, con orari confermati dalla sorella**: partenza verso
+  le 11:00, tappa a **Neive**, **pranzo alle 13:00** in cantina (già
+  prenotato, nome ancora da confermare), **degustazione guidata alle 16:30**.
+  Dopo la degustazione, **La Morra ed eventualmente il castello di Barolo**
+  entrano come tappa **facoltativa** in auto (quella della sorella): lei ha
+  segnalato che il posto della degustazione non è lontano da La Morra, quindi
+  probabilmente ci si passa, ma non è un piano fisso — dipende dal tempo sul
+  posto.
+- ✅ **Giorno 3 (10 agosto) — giornata intera a Torino, andata e ritorno in
+  treno da Alba**: sostituisce il vecchio piano "Alba di mattina, La Morra e
+  Barolo di pomeriggio" (quel giro in auto è ora facoltativo nel Giorno 2, non
+  più un piano fisso del 10 agosto). Con una giornata intera dedicata solo a
+  Torino, il **Palazzo Reale** finalmente ci sta (prima, fra Giorno 1 e il
+  vecchio Giorno 4, restava sì e no un'ora di visita vera): entra nel piano
+  insieme all'**ascensore della Mole**, spostato qui dal vecchio Giorno 4. Il
+  Museo Egizio diventa una tappa facoltativa a bassa priorità, non più "da
+  rimandare a un altro viaggio". Nessun bagaglio da portare: è una gita in
+  giornata, si dorme ancora ad Alba quella sera.
+- ✅ **Giorno 4 (11 agosto) — mattina ad Alba, Torino solo di passaggio**:
+  dato che Torino è già stata vista con calma il giorno prima, oggi non c'è
+  più bisogno di tornarci per visitare qualcosa. La mattina resta ad Alba
+  (Duomo, corso, torri, un'ultima tappa da Bodrato), poi si prende il
+  regionale verso Torino Porta Susa solo per la coincidenza con l'Italo delle
+  13:00 — nessuna visita, nessun deposito bagagli (la sosta è troppo breve
+  per averne senso).
 - ✅ **12 agosto — tutto Verona**: Arena, centro storico, Casa di Giulietta,
   Ponte Pietra, Castelvecchio, giardino Giusti.
 - ✅ **13 agosto — Verona con calma, poi degustazione e Carmina Burana**: la
@@ -151,8 +156,16 @@ corrispondente va tolta da `CREDITS.md`.
 
 ## Debito noto
 
-- Nome esatto della cantina del pranzo/degustazione del 9 agosto: da
+- Nome esatto della cantina del pranzo/degustazione del 9 agosto (Neive): da
   confermare con la sorella.
+- Se il giro del 9 agosto tocca davvero La Morra e/o Barolo dopo la
+  degustazione: probabile ma non fissato, dipende dal tempo sul posto.
+- Orari dei regionali Alba↔Torino del **Giorno 3** (andata e ritorno, 10
+  agosto) e della mattina del **Giorno 4** (11 agosto): nessuno di questi è
+  la stessa corsa già confermata su Trenitalia (quelle confermate restano
+  solo le due dell'8 agosto sera e della vecchia mattina dell'11). Vanno
+  riverificati più vicino alla data, in particolare il ritorno delle 19:33 il
+  10 agosto: quel giorno è un lunedì, non un sabato come l'8 agosto.
 - Prenotazione su Airbnb della degustazione del Giorno 6: decisa, ma va
   ancora completata online — solo 4 posti per slot.
 - Biglietti del Carmina Burana del Giorno 6: scelto lo spettacolo, va ancora
