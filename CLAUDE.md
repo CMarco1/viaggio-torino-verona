@@ -44,10 +44,13 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
   orario al minuto :07 di ogni ora. **Lo stesso treno ferma sia a Torino
   Lingotto sia a Torino Porta Susa, 8 minuti di distanza** (confermato su
   Trenitalia in entrambi i versi) — niente metro, si sale/scende direttamente
-  a Porta Susa. **Vincolo duro: l'8 agosto l'ultimo treno utile da Torino ad
-  Alba parte alle 19:33 da Porta Susa** (19:41 a Lingotto). Il pomeriggio a
-  Torino del Giorno 1 va scritto per finire in tempo per quel treno, con
-  margine per arrivare in stazione. **Il 10 agosto (Giorno 3) l'andata Alba →
+  a Porta Susa. **L'8 agosto si prende il treno delle 18:33 da Porta Susa**
+  (n. 26478, arrivo Alba 19:53, 1h20, 7,10€), anticipato apposta rispetto al
+  vecchio ultimo treno utile delle 19:33 (n. 26484, arrivo 20:53): serve per
+  arrivare in tempo alla **cena delle 21:00 con la sorella ad Alba**, che ora
+  è il vero pasto della giornata. Il treno delle 19:33 resta comunque
+  disponibile come rete di sicurezza se il pomeriggio a Torino slitta, ma si
+  perderebbe l'inizio della cena. **Il 10 agosto (Giorno 3) l'andata Alba →
   Torino Porta Susa delle 13:07 è confermata** (SFM4 n. 26445, arrivo 14:22).
 - Non è previsto un budget dettagliato per questo viaggio: **niente pagina
   costi**.
@@ -103,12 +106,16 @@ convenzioni del sito. Vale prima di qualunque consiglio da guida turistica.
   giornata (mattina e primo pomeriggio) resta deliberatamente leggero —
   riposo, eventualmente Castelvecchio o il Giardino Giusti. Orari correnti in
   `giorno-06.html`.
-- ✅ **Cena del Giorno 1: salsiccia di Bra e patate ripiene a Torino**, non ad
-  Alba. Salsiccia di Bra da **Crostone.it** (Piazza Castello 72) e patate
-  ripiene da **Poormanger** (Piazza Palazzo di Città), entrambe a due passi
-  l'una dall'altra: è una richiesta esplicita, non un'opzione fra altre. Il
-  bicerin che questo ha spostato fuori dal Giorno 1 è finito al mattino del
-  Giorno 4, seconda volta a Torino.
+- ✅ **Giorno 1 anticipato: la cena vera è con la sorella ad Alba alle 21:00**,
+  non più a Torino. Per arrivarci in tempo si anticipa il regionale
+  Torino→Alba al treno delle **18:33** (n. 26478, arrivo Alba 19:53), invece
+  del vecchio ultimo treno utile delle 19:33 (n. 26484, arrivo 20:53). A
+  Torino restano **salsiccia di Bra da Crostone.it** (Piazza Castello 72) e
+  **patate ripiene da Poormanger** (Piazza Palazzo di Città), entrambe a due
+  passi l'una dall'altra, ma come **merenda/pranzo in ritardo** nel primo
+  pomeriggio, non più come cena: è una richiesta esplicita, non un'opzione
+  fra altre. Il bicerin che questo ha spostato fuori dal Giorno 1 resta al
+  mattino del Giorno 4, seconda volta a Torino.
 - ✅ **Giorno 2, ordine invertito: pranzo prima, degustazione nel tardo
   pomeriggio**, non subito a ridosso l'uno dell'altra. La sorella ha
   confermato che la degustazione vera e propria sarà più tardi, non a ridosso
@@ -177,3 +184,10 @@ corrispondente va tolta da `CREDITS.md`.
 
 - Se il giro del 9 agosto tocca davvero La Morra e/o Barolo dopo la
   degustazione: probabile ma non fissato, dipende dal tempo sul posto.
+- **Lavori Trenitalia sulla Firenze-Roma dal 10 al 28 agosto** (annunciati,
+  non ancora tradotti in un orario aggiornato): il treno di rientro del
+  Giorno 7 (Italo 8967, 14/8, Verona P.N. → Roma Termini) passa su quella
+  linea e rischia tempi di viaggio più lunghi rispetto all'arrivo previsto
+  delle 22:13. Nessuna coincidenza a rischio dopo Roma Termini, ma va
+  ricontrollato l'orario sull'app Italo nei giorni prima della partenza.
+  Segnalato in `giorno-07.html`, `treni.html` e `prenotazioni.html`.
