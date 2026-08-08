@@ -189,6 +189,18 @@ corrispondente va tolta da `CREDITS.md`.
 
 - Se il giro del 9 agosto tocca davvero La Morra e/o Barolo dopo la
   degustazione: probabile ma non fissato, dipende dal tempo sul posto.
+- **Giorno 4, bagagli in hotel come favore**: al check-out delle 10:00 si
+  chiede alla reception del Blunotte di tenere i bagagli per la mattinata
+  (fino alle 11:45), invece di portarseli dietro a colazione e passeggiata.
+  Non è un servizio garantito come il deposito di Porta Susa del Giorno 1: va
+  chiesto sul posto, e se la reception dice di no si torna al piano semplice
+  (valigie al seguito da subito). Nessuna prenotazione da fare in anticipo.
+- **Giorno 7, stesso favore all'Hotel Leopardi**: al check-out delle 9:30 si
+  chiede di tenere i bagagli fino al recupero delle 15:30, invece di girare
+  Verona con le valigie tutto il giorno. Idem, non garantito: se la
+  reception dice di no, il piano di riserva è un locker in zona Porta Nuova
+  (stesso tipo usato nel Giorno 1 a Torino), con il recupero spostato in
+  stazione invece che in hotel.
 - **Lavori Trenitalia sulla Firenze-Roma dal 10 al 28 agosto** (annunciati,
   non ancora tradotti in un orario aggiornato): il treno di rientro del
   Giorno 7 (Italo 8967, 14/8, Verona P.N. → Roma Termini) passa su quella
