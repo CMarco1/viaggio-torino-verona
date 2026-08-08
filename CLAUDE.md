@@ -160,7 +160,12 @@ sette giorni):
   `index.html`.
 - `.card.accent.a-sintesi` → `ul.synth`, tre righe.
 - `.card.a-itin` → `ol.timeline`, `<li><span class="t">HH:MM</span><div>…</div></li>`.
-  Le tappe facoltative hanno `class="opt"` sul `<li>`.
+  Le tappe facoltative hanno `class="opt"` sul `<li>`. Nei giorni di
+  spostamento (1, 3, 4, 7) i bagagli hanno un badge `<span class="bag
+  bag-on">🧳 …</span>` / `<span class="bag bag-off">📦 …</span>` **solo nei
+  punti in cui lo stato cambia** (si prendono, si lasciano) — non su ogni
+  riga, altrimenti diventa rumore. Nei giorni fermi (2, 5, 6) non serve: i
+  bagagli restano in camera tutto il giorno.
 - `.card.a-mappa` → iframe Google Maps + link `.maplink`. Se cambi le tappe,
   **aggiorna anche saddr/daddr**.
 - `.card.a-mangiare` → `ul.eat` con `<span class="when">Pranzo</span>`.
